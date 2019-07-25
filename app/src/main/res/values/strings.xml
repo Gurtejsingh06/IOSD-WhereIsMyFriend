@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhereIsMyFriend</string>
+    <string name="map_key" translatable="false">AIzaSyBLwCVFgDPLXEPzuQPpIeNUaTtzkUg8wP4</string>
+</resources>
